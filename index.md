@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to my blog #
 
-I'm glad you are here. I plan to talk about ...
+I have a lot to talk about...
+1. Dogs
+1. Cars
+2. Computers
